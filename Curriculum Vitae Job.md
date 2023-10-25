@@ -1,6 +1,7 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Disini saya membuat sebuah aplikasi web yang dmn di dalam nya CV dan skil pribadi saya sepeti Designer, Web Developer, Vidiographer, Photographer, Pendaki untuk menawarkan jasa sesuai keahlian saya.
+Karena banyaknya orang yang mempunyai sebuah keahlian yang tidak bisa di kembangkan utnuk menjadi sebuah pekerjaan dan mendapatkan penghasilan. Maka dari itu saya membuat sebuah aplikasi untuk memudahkan mengakses job freelance.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
