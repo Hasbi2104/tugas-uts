@@ -1,20 +1,60 @@
-# tugas-uts
-membuat aplikasi web untuk menawarkan sebuah joob diri sendiri 
-intro
-Melalui artikel ini saya membuat aplikasi web cv diri sendiri yang dimana di dalamnya sebuah skill pribadi saya yang bisa di jadikan job seperti potographi,diseain,dll yang dimana di butuh kan orang lain 
-Analysis: Branding
-Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
+## 1.1 Latar Belakang
 
-Merk: CVJOB
-Tagline: menawarkan jasa dan freelance
-Campaign: Bagaimana membuat aplikasi yang membuat penggunanya senang mengebangkan skil yang dimiliki dan dapat bermanafaat bagi orang lain
-Target user:
-mempunyai bakat yang mengempuni
-Seorang yang senang mengeksplorasi inspirasi dan informasi baru
-Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
-seorang yang ingin mengembangkan bakat menjadi sebuah pengasilan 
-User experience theme:
-Mudah
-Sederhana
-Warna: ala suasana siang blue/white
-Analysis: User Story
+bla bla bla
+
+## 1.2. Deksripsi Teknologi Informasi
+
+bla bla bla
+
+## 1.3. Branding
+
+bla bla bla
+
+## 2. User Story
+
+bla | bla | bla | bla
+---|---|---|---
+bla | bla | bla | ⭐⭐⭐⭐⭐
+
+## 3. Struktur Data
+
+Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+
+```mermaid
+erDiagram
+    RUJAK ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ RUJAK : beli
+```
+
+## 4. Arsitektur Sistem
+
+Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+
+## 5. Teknologi, Library, dan Framework
+
+bla bla bla
+
+## 6. Desain User Experience dan User Interface
+
+Bisa load image 
+![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+
+## 7. Demonstrasi Video
+
+Link youtube nya
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
+
