@@ -5,11 +5,26 @@ Karena banyaknya orang yang mempunyai sebuah keahlian yang tidak bisa di kembang
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+aplikasi web untuk menawarkan jasa sesuai skill yang tercantum di CV, lalu aplikasi web tersebut menggunakan bahasa index.html,js,css
 
 ## 1.3. Branding
 
-bla bla bla
+Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
+
+Merk: CVJOB
+Tagline:job freelance mudah dan menyenangkan karena sesuai hobi masing masing
+Campaign: bagaimana membuat aplikasi ini untuk memudahkan orang lain menyalurkan hobi,skill nya agar bermanfaat untuk orang lain yang membutuhkan dan dapat bertanggung jawab atas pekerjaanya
+Target user:
+Seorang yang senang freelance job agar tidak jenuh
+Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+Seorang yang ingin hobi atau skillnya dapat bermanfaat bagi orang lain dan berbuah hasil
+User experience theme:
+Mudah
+Sederhana
+simple
+Warna: ala ala blue ang light 
+Inspirasi desain:
 
 ## 2. User Story
 
