@@ -28,7 +28,7 @@ Inspirasi desain:
 [gambar] (
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa| Sehingga | prioritas 
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
 
