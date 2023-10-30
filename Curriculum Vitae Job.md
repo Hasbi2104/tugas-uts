@@ -39,6 +39,12 @@ Pengguna | Membalas pesan customer ketika sedang memesan | customer dan pembeli 
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 erDiagram
+
+
+
+
+
+
     CAR ||--o{ NAMED-DRIVER : allows
     CAR {
         string registrationNumber
