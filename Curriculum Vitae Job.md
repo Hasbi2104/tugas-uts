@@ -46,7 +46,7 @@ erDiagram
     CAR {
         string registrationNumber
         string make
-        string model
+        string nama
     }
     PERSON ||--o{ NAMED-DRIVER : is
     PERSON {
