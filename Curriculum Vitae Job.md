@@ -30,7 +30,7 @@ Inspirasi desain:
 
 Sebagai | Saya ingin bisa| Sehingga | prioritas 
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+pengguna | menawarkan jasa pribadi| orang lain dapat terinspirasi | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
