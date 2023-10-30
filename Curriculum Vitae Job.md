@@ -36,14 +36,6 @@ pengguna | Melihat CV saya dan melihat skill saya | orang lain dapat percaya ata
 pengguna | mengirim pesan untuk memesan jasanya | memudahkan memesan job dengan mudah dan tidak sulit | ⭐⭐⭐⭐⭐
 Pengguna | Membalas pesan customer ketika sedang memesan | customer dan pembeli dapat saling konfirmasi | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
-
-
-
-
-
-
-
-
    erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
