@@ -38,30 +38,21 @@ Pengguna | Membalas pesan customer ketika sedang memesan | customer dan pembeli 
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-    erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
-        string name
-        string custNumber
-        string sector
+    CAR ||--o{ NAMED-DRIVER : allows
+    CAR {
+        string registrationNumber
+        string make
+        string model
     }
-    ORDER ||--|{ LINE-ITEM : contains
-    ORDER {
-        int orderNumber
-        string deliveryAddress
+    PERSON ||--o{ NAMED-DRIVER : is
+    PERSON {
+        string firstName
+        string lastName
+        int age
     }
-    LINE-ITEM {
-        string productCode
-        int quantity
-        float pricePerUnit
-    }
-    
 
+   
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
