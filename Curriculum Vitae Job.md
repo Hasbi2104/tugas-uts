@@ -42,6 +42,9 @@ erDiagram
 
 
 
+
+
+
    erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
