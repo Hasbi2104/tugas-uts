@@ -5,7 +5,7 @@ Karena banyaknya orang yang mempunyai sebuah keahlian yang tidak bisa di kembang
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-aplikasi web untuk menawarkan jasa sesuai skill yang tercantum di CV, lalu aplikasi web tersebut menggunakan bahasa index.html,js,css
+aplikasi web untuk menawarkan jasa sesuai skill yang tercantum di CV, lalu aplikasi web tersebut menggunakan data bes bootstrap.min.css bahasa index.html,css
 
 ## 1.3. Branding
 
