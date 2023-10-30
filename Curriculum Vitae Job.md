@@ -34,6 +34,7 @@ Sebagai | Saya ingin bisa| Sehingga | prioritas
 pengguna | menawarkan jasa pribadi| orang lain dapat terinspirasi | ⭐⭐⭐⭐⭐
 pengguna | Melihat CV saya dan melihat skill saya | orang lain dapat percaya atas jasa kita | ⭐⭐⭐⭐⭐
 pengguna | mengirim pesan untuk memesan jasanya | memudahkan memesan job dengan mudah dan tidak sulit | ⭐⭐⭐⭐⭐
+Pengguna | Membalas pesan customer ketika sedang memesan | customer dan pembeli dapat saling konfirmasi | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
