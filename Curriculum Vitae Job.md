@@ -25,7 +25,7 @@ Sederhana
 simple
 Warna: ala ala blue ang light 
 Inspirasi desain:
-
+[gambar] (
 ## 2. User Story
 
 bla | bla | bla | bla
