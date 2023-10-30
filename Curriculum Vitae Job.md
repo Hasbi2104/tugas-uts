@@ -25,7 +25,8 @@ Sederhana
 simple
 Warna: ala ala blue ang light 
 Inspirasi desain:
-[gambar] (
+! [gamabr] (![download](https://github.com/Hasbi2104/tugas-uts/assets/144440884/a4704479-6935-4cce-af01-b5405c837efd)
+
 ## 2. User Story
 
 Sebagai | Saya ingin bisa| Sehingga | prioritas 
