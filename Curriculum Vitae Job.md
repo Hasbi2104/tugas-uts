@@ -25,7 +25,7 @@ Sederhana
 simple
 Warna: ala ala blue ang light 
 Inspirasi desain:
-! [gamabr] (Downloads)
+! [gamabr](Downloads)
 ## 2. User Story
 
 Sebagai | Saya ingin bisa| Sehingga | prioritas 
