@@ -68,7 +68,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 
 
-```
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
 subgraph "One"
