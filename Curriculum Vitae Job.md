@@ -68,7 +68,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 
 
-
+```
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
 subgraph "One"
@@ -79,6 +79,7 @@ subgraph "`**Two**`"
   c("`The **cat**
   in the hat`") -- "`Bold **edge label**`" --> d("The dog in the hog")
 end
+```
 ## 5. Teknologi, Library, dan Framework
 
 bla bla bla
