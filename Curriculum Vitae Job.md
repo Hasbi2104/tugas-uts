@@ -44,10 +44,11 @@ erDiagram
   
 ```mermaid
 erDiagram
-    PENGGUNA ||--o{ POSTINGAN : MEMPOSTING
-    PENGGUNA {
+   SELLER ||--o{ POSTINGAN : MEMPOSTING
+   SELLER{
       string username
-      string password
+      string nama_lengakap
+      string email
     }
 
     PENGGUNA_LAIN ||--|{ POSTINGAN : MENYUKAI
