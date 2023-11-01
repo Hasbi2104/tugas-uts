@@ -46,14 +46,15 @@ erDiagram
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
-        string name
+        string name_lengkap
         string custNumber
         string sector
     }
     ORDER ||--|{ LINE-ITEM : contains
     ORDER {
         int orderNumber
-        string deliveryAddress
+        string email
+        string kontak
     }
     LINE-ITEM {
         string productCode
