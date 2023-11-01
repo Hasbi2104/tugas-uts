@@ -44,28 +44,21 @@ erDiagram
   
 ```mermaid
 erDiagram
-   SELLER ||--o{ POSTINGAN : MEMPOSTING
-   SELLER{
-      string username
-      string nama_lengakap
-      string email
+    CUSTOMER ||--o{ ORDER : places
+    CUSTOMER {
+        string name
+        string custNumber
+        string sector
     }
-
-    PENGGUNA_LAIN ||--|{ POSTINGAN : MENYUKAI
-    PENGGUNA_LAIN {
-      string username
-
+    ORDER ||--|{ LINE-ITEM : contains
+    ORDER {
+        int orderNumber
+        string deliveryAddress
     }
-
-    POSTINGAN {
-      image foto
-      string username_pengguna
-      int jumlahLike
-    }
-    PENGGUNA ||--|{ PENGGUNA_LAIN : MENGUNJUNGI_PROFIL
-    POSTINGAN ||--|{ SLIDE : MEMPOSTING
-    SLIDE{
-        image foto
+    LINE-ITEM {
+        string productCode
+        int quantity
+        float pricePerUnit
     }
 ```
 ## 4. Arsitektur Sistem
