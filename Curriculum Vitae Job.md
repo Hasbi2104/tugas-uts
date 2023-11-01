@@ -42,21 +42,29 @@ erDiagram
 
 
   
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
-        string name
-        string custNumber
-        string sector
+mermaid
+erDiagram
+    PENGGUNA ||--o{ POSTINGAN : MEMPOSTING
+    PENGGUNA {
+      string username
+      string password
     }
-    ORDER ||--|{ LINE-ITEM : contains
-    ORDER {
-        int orderNumber
-        string deliveryAddress
+
+    PENGGUNA_LAIN ||--|{ POSTINGAN : MENYUKAI
+    PENGGUNA_LAIN {
+      string username
+
     }
-    LINE-ITEM {
-        string productCode
-        int quantity
-        float pricePerUnit
+
+    POSTINGAN {
+      image foto
+      string username_pengguna
+      int jumlahLike
+    }
+    PENGGUNA ||--|{ PENGGUNA_LAIN : MENGUNJUNGI_PROFIL
+    POSTINGAN ||--|{ SLIDE : MEMPOSTING
+    SLIDE{
+        image foto
     }
 ## 4. Arsitektur Sistem
 
