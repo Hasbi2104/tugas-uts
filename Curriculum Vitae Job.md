@@ -38,7 +38,10 @@ Pengguna | Membalas pesan customer ketika sedang memesan | customer dan pembeli 
 ## 3. Struktur Data
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 erDiagram
-  erDiagram
+  
+
+
+  
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
         string name
@@ -55,7 +58,6 @@ erDiagram
         int quantity
         float pricePerUnit
     }
-   
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
