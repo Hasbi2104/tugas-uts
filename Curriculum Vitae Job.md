@@ -50,13 +50,13 @@ erDiagram
         string custNumber
         string sector
     }
-    ORDER ||--|{ LINE-ITEM : contains
+    ORDER ||--|{ PENGGUNA : contains
     ORDER {
         int orderNumber
         string email
         string kontak
     }
-    LINE-ITEM {
+    PENGGUNA {
         string productCode
         int quantity
         float pricePerUnit
