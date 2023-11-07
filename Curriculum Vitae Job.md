@@ -69,22 +69,22 @@ erDiagram
   
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
+    pengguna ||--o{CUSTUMER : MEMBELI
+    pengguna {
         string name_lengkap
         string custNumber
-        string sector
+        string password
     }
-    ORDER ||--|{ PENGGUNA : contains
-    ORDER {
+    CUSTUMER ||--|{ FREELANCER : user
+   CUSTUMER {
         int orderNumber
         string email
         string kontak
     }
-    PENGGUNA {
-        string productCode
-        int quantity
-        float pricePerUnit
+   FREELANCER {
+        string email
+        int nomorhp
+        string skill
     }
 ```
 ## 4. Arsitektur Sistem
