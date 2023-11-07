@@ -107,7 +107,8 @@ end
 ```
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+saya membuat aplikasi ini dengan vscode
+database bootstrap.min.css
 
 ## 6. Desain User Experience dan User Interface
 
