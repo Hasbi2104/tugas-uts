@@ -1,11 +1,25 @@
 ## 1.1 Latar Belakang
 
-Disini saya membuat sebuah aplikasi web yang dmn di dalam nya CV dan skil pribadi saya sepeti Designer, Web Developer, Vidiographer, Photographer, Pendaki untuk menawarkan jasa sesuai keahlian saya.
+Freelance adalah istilah freelance online, sebenarnya ini adalah pekerjaan yang dilakukan secara sambilan atau lepas tanpa terikat dengan perusahaan mana pun.
+
+4 Alasan Kenapa Freelancer Jadi Pekerjaan yang Diburu
+Saat ini banyak sekali jenis pekerjaan yang bisa dilakukan, salah satunya dengan menjadi freelancer. Pekerja lepas yang tidak terikat dengan aturan waktu dan tempat tertentu seperti ini sedang banyak diminati akhir-akhir ini . Karena dianggap sangat mudah dan juga tidak terikat dengan suatu perusahaan membuat banyak orang jadi tergiur untuk menekuninya.
+Masih ada alasan lain mengapa seseorang lebih memilih jadi freelancer daripada bekerja langsung ke kantor atau tempat tertentu, beberapa di antaranya benefit yang freelancer dapati sebagai berikut.
+1. Penghasilan Sesuai dengan Pekerjaan
+2. Waktu Kerjanya Fleksibel
+3. Bisa Dikerjakan di Mana pun
+4. Tak Harus Bertemu dengan Banyak Orang
+   
+adapun Keuntungan pekerjaan freelance meliputi fleksibilitas yang tinggi dalam memilih proyek, jadwal kerja, dan lokasi kerja. Freelancer dapat bekerja dari rumah, kafe, atau di mana saja yang mereka pilih. Mereka memiliki kontrol penuh atas karier mereka dan dapat menentukan sendiri berapa banyak proyek yang mereka ambil.
+
+Disini saya membuat sebuah aplikasi berbasis web yang dmn di dalam nya CV dan skil pribadi saya sepeti Designer, Web Developer, Vidiographer, Photographer, Pendaki untuk menawarkan jasa sesuai keahlian saya.
 Karena banyaknya orang yang mempunyai sebuah keahlian yang tidak bisa di kembangkan utnuk menjadi sebuah pekerjaan dan mendapatkan penghasilan. Maka dari itu saya membuat sebuah aplikasi untuk memudahkan mengakses job freelance.
 
 ## 1.2. Deksripsi Teknologi Informasi
+maka dari itu saya membuat aplikasi berbasis web untuk menawarkan jasa pibadi saya sesuai skill yang tercantum di CV, yang dimana aplikasi itu dapat memudahkan dalam hal pekerjaan sesseorang dengan menggunakan sebuah aplikasi tersebut, aplikasi itu juga ada fithur dimana orang orang bisa melihat sill dan kemamupuan kita sebagai seorang freelancer agar si customer bisa tertarik dari hasil skil dan portofolio yang kita upload sebagai freelancer adapun ketika costumer minat hasil dari karya si freelancer, costumer bisa menghubungi kontak yang sudah tercantum di aplikasi berbasis web tersebut.
 
-aplikasi web untuk menawarkan jasa sesuai skill yang tercantum di CV, lalu aplikasi web tersebut menggunakan data bes bootstrap.min.css bahasa index.html,css
+
+
 
 ## 1.3. Branding
 
