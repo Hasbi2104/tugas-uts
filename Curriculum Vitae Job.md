@@ -18,7 +18,7 @@ Karena banyaknya orang yang mempunyai sebuah keahlian yang tidak bisa di kembang
 ## 1.2. Deksripsi Teknologi Informasi
 aplikasi berbasis web ini dimana si pengguna dapat masuk ke aplikasi tersebut dan bisa melihat jasa-jasa si freelancer upload cv dan fortopolio di aplikasi tersebut, lalu pegguna bisa mencari jasa sesuai yang dia butuhkan di menu pencarian dan akan di arahkan ke freelancer yang menawarkan jasa nya sesuai si pengguna cari.
 setelah itu ketika pengguna mengeklik jasa freelancer yang dia pilih akan melihat kan cvjobfortopolionya si freelancer dan hasil hasil skill dia upload agar si pengguna tertarik.
-lalu cutomer sudah tertarik atas hasil karyanya customer bisa langsung menghubungi freelancer tersebut sesui yang sudah tercantum kontak tersebut.
+lalu cutomer sudah tertarik atas hasil karyanya customer bisa langsung menghubungi freelancer tersebut sesui kontak yang sudah tercantum 
 
 
 maka dari itu saya membuat aplikasi berbasis web untuk menawarkan jasa pibadi saya sesuai skill yang tercantum di CV, yang dimana aplikasi itu dapat memudahkan dalam hal pekerjaan sesseorang dengan menggunakan sebuah aplikasi tersebut, aplikasi itu juga ada fithur dimana orang orang bisa melihat sill dan kemamupuan kita sebagai seorang freelancer agar si customer bisa tertarik dari hasil skil dan portofolio yang kita upload sebagai freelancer adapun ketika costumer minat hasil dari karya si freelancer, costumer bisa menghubungi kontak yang sudah tercantum di aplikasi berbasis web tersebut.
