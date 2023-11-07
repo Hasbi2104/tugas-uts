@@ -29,6 +29,7 @@ Merk: CVJOB
 Tagline:job freelance mudah dan menyenangkan karena sesuai hobi masing masing
 Campaign: bagaimana membuat aplikasi ini untuk memudahkan orang lain menyalurkan hobi,skill nya agar bermanfaat untuk orang lain yang membutuhkan dan dapat bertanggung jawab atas pekerjaanya
 Target user:
+17+
 Seorang yang senang freelance job agar tidak jenuh
 Seorang yang senang mengeksplorasi inspirasi dan informasi baru
 Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
@@ -37,7 +38,7 @@ User experience theme:
 Mudah
 Sederhana
 simple
-Warna: ala ala blue ang light 
+Warna: ala ala skai blue 
 Inspirasi desain:
 ! [gamabr] (![website-CV-2](https://github.com/Hasbi2104/tugas-uts/assets/144440884/c3b92318-b8a5-4577-b2a3-0ac497cee17e)
 
@@ -45,10 +46,12 @@ Inspirasi desain:
 
 Sebagai | Saya ingin bisa| Sehingga | prioritas 
 ---|---|---|---
-pengguna | menawarkan jasa pribadi| orang lain dapat terinspirasi | ⭐⭐⭐⭐⭐
-pengguna | Melihat CV saya dan melihat skill saya | orang lain dapat percaya atas jasa kita | ⭐⭐⭐⭐⭐
-pengguna | mengirim pesan untuk memesan jasanya | memudahkan memesan job dengan mudah dan tidak sulit | ⭐⭐⭐⭐⭐
-Pengguna | Membalas pesan customer ketika sedang memesan | customer dan pembeli dapat saling konfirmasi | ⭐⭐⭐⭐⭐
+freelancer | menawarkan jasa pribadi| orang lain dapat terinspirasi | ⭐⭐⭐⭐⭐
+freelancer | Melihat CV saya dan melihat skill saya | orang lain dapat percaya atas jasa kita | ⭐⭐⭐⭐⭐
+customer | mengirim pesan untuk memesan jasanya | memudahkan memesan job dengan mudah dan tidak sulit | ⭐⭐⭐⭐⭐
+customer | Membalas pesan customer ketika sedang memesan | customer dapat saling konfirmasi | ⭐⭐⭐⭐⭐
+customer | melihat hasil karya dari si orang tersebut sebagai freelancer | ada ketertarikan dan kepercayaan untuk kita pesann | ⭐⭐⭐⭐⭐
+freelancer | memosting hasil karyanya | custumer bisa melihat hasiltersebut | pembeli bisa membeli atas jasa freelancer | ⭐⭐⭐⭐⭐ 
 ## 3. Struktur Data
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 erDiagram
