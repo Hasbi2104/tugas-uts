@@ -20,8 +20,7 @@ aplikasi berbasis web ini dimana si pengguna dapat masuk ke aplikasi tersebut da
 setelah itu ketika pengguna mengeklik jasa freelancer yang dia pilih akan melihat kan cvjobfortopolionya si freelancer dan hasil hasil skill dia upload agar si pengguna tertarik.
 lalu cutomer sudah tertarik atas hasil karyanya customer bisa langsung menghubungi freelancer tersebut sesui kontak yang sudah tercantum 
 
-
-maka dari itu saya membuat aplikasi berbasis web untuk menawarkan jasa pibadi saya sesuai skill yang tercantum di CV, yang dimana aplikasi itu dapat memudahkan dalam hal pekerjaan sesseorang dengan menggunakan sebuah aplikasi tersebut, aplikasi itu juga ada fithur dimana orang orang bisa melihat sill dan kemamupuan kita sebagai seorang freelancer agar si customer bisa tertarik dari hasil skil dan portofolio yang kita upload sebagai freelancer adapun ketika costumer minat hasil dari karya si freelancer, costumer bisa menghubungi kontak yang sudah tercantum di aplikasi berbasis web tersebut.
+maka dari itu saya membuat aplikasi berbasis web untuk menawarkan jasa pibadi saya sesuai skill yang tercantum di CV, yang dimana aplikasi itu dapat memudahkan dalam hal pekerjaan sesseorang dengan menggunakan sebuah aplikasi tersebut, aplikasi itu juga ada fithur dimana orang orang bisa melihat skill dan kemamupuan kita sebagai seorang freelancer agar si customer bisa tertarik dari hasil skil dan portofolio yang kita upload sebagai freelancer adapun ketika costumer minat hasil dari karya si freelancer, costumer bisa menghubungi kontak yang sudah tercantum di aplikasi berbasis web tersebut.
 aplikasi tersebut dapat digunakan oleh si pengguna untuk melihat sebuah uploaddan si freelancer seperti aplisi shopee atau marketplace 
 
 
@@ -31,20 +30,20 @@ aplikasi tersebut dapat digunakan oleh si pengguna untuk melihat sebuah uploadda
 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 
-Merk: CVJOB
-Tagline:job freelance mudah dan menyenangkan karena sesuai hobi masing masing
-Campaign: bagaimana membuat aplikasi ini untuk memudahkan orang lain menyalurkan hobi,skill nya agar bermanfaat untuk orang lain yang membutuhkan dan dapat bertanggung jawab atas pekerjaanya
-Target user:
-17+
-Seorang yang senang freelance job agar tidak jenuh
-Seorang yang senang mengeksplorasi inspirasi dan informasi baru
-Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
-Seorang yang ingin hobi atau skillnya dapat bermanfaat bagi orang lain dan berbuah hasil
-User experience theme:
-Mudah
-Sederhana
-simple
-Warna: ala ala skai blue 
+- Merk: CVJOB
+- Tagline:job freelance mudah dan menyenangkan karena sesuai hobi masing masing
+- Campaign: bagaimana membuat aplikasi ini untuk memudahkan orang lain menyalurkan hobi,skill nya agar bermanfaat untuk orang lain yang membutuhkan dan dapat bertanggung jawab atas pekerjaanya
+- Target user:
+   - usia 17+
+   - Seorang yang senang freelance job agar tidak jenuh
+   - Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+   - Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+   - Seorang yang ingin hobi atau skillnya dapat bermanfaat bagi orang lain dan berbuah hasil
+- User experience theme:
+   - Mudah
+   - Sederhana
+   - simple
+- Warna: ala ala skai blue 
 Inspirasi desain:
 ! [gamabr] (![website-CV-2](https://github.com/Hasbi2104/tugas-uts/assets/144440884/c3b92318-b8a5-4577-b2a3-0ac497cee17e)
 
@@ -52,14 +51,14 @@ Inspirasi desain:
 
 Sebagai | Saya ingin bisa| Sehingga | prioritas 
 ---|---|---|---
-freelancer | menawarkan jasa pribadi| orang lain dapat terinspirasi | ⭐⭐⭐⭐⭐
+freelancer | menawarkan dengan cara mengupload jasa pribadi| custumer dapat melihat hasil dari jasa nya  | ⭐⭐⭐⭐⭐
 freelancer | Melihat CV saya dan melihat skill saya | orang lain dapat percaya atas jasa kita | ⭐⭐⭐⭐⭐
 customer | mengirim pesan untuk memesan jasanya | memudahkan memesan job dengan mudah dan tidak sulit | ⭐⭐⭐⭐⭐
 customer | Membalas pesan customer ketika sedang memesan | customer dapat saling konfirmasi | ⭐⭐⭐⭐⭐
-customer | melihat hasil karya dari si orang tersebut sebagai freelancer | ada ketertarikan dan kepercayaan untuk kita pesann | ⭐⭐⭐⭐⭐
+customer | melihat hasil karya dari si orang tersebut sebagai freelancer | cutomer ada ketertarikan dan kepercayaan untuk kita pesann atas jasaanya | ⭐⭐⭐⭐⭐
 freelancer | memosting hasil karyanya | custumer bisa melihat hasiltersebut | ⭐⭐⭐⭐⭐ 
 pengguna | bisa melihat lihat sebuah freelancer yang menguplload sebuah jasanya | bisa mengeklik uplodan freelancer tersebut dan dapat bisa lebih detail lagi melihat tentang jasa si freelancer |  ⭐⭐⭐⭐⭐ 
-pengguna | bisa mencari jasa sesuai yang pengguna butuhkan | tidak cape cape mencari kemana mana | ⭐⭐⭐⭐⭐
+pengguna | bisa mencari jasa sesuai yang pengguna butuhkan | pengguna tidak cape cape mencari kemana mana | ⭐⭐⭐⭐
 ## 3. Struktur Data
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 erDiagram
@@ -94,19 +93,52 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-subgraph "One"
-  a("`The **cat**
-  in the hat`") -- "edge label" --> b{{"`The **dog** in the hog`"}}
-end
-subgraph "`**Two**`"
-  c("`The **cat**
-  in the hat`") -- "`Bold **edge label**`" --> d("The dog in the hog")
-end
+flowchart TD
+    A[Mobile and web aplikation : vscode] <-->   B[Game Server : js,css] 
+    B <--> C[Database : bootstrap.min.css]
 ```
 ## 5. Teknologi, Library, dan Framework
 
+$(document).ready(function() {
+  AOS.init( {
+    // uncomment below for on-scroll animations to played only once
+    // once: true  
+  }); // initialize animate on scroll library
+});
+
+// Smooth scroll for links with hashes
+$('a.smooth-scroll')
+.click(function(event) {
+  // On-page links
+  if (
+    location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+    && 
+    location.hostname == this.hostname
+  ) {
+    // Figure out element to scroll to
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+    // Does a scroll target exist?
+    if (target.length) {
+      // Only prevent default if animation is actually gonna happen
+      event.preventDefault();
+      $('html, body').animate({
+        scrollTop: target.offset().top
+      }, 1000, function() {
+        // Callback after animation
+        // Must change focus!
+        var $target = $(target);
+        $target.focus();
+        if ($target.is(":focus")) { // Checking if the target was focused
+          return false;
+        } else {
+          $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+          $target.focus(); // Set focus again
+        };
+      });
+    }
+  }
+});
 saya membuat aplikasi ini dengan vscode
 database bootstrap.min.css
 
