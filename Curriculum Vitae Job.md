@@ -142,6 +142,10 @@ $('a.smooth-scroll')
 saya membuat aplikasi ini dengan vscode
 database bootstrap.min.css
 
+- Bahwasanya bnyak nya fitur yang sangat mudah dan sinmple untuk di pakai di aplikasi ini
+- dan juga bisa di kembang kan aplikasi tersebut dalam bentuk apapun
+- 
+
 ## 6. Desain User Experience dan User Interface
 
 ![poto] (![08e2ac26-ef23-46b0-b3ab-17a1170b53c8](https://github.com/Hasbi2104/tugas-uts/assets/144440884/5c40af08-7e53-44ff-bdfb-817316fae4a5)
