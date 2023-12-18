@@ -100,8 +100,8 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ```mermaid
 flowchart TD
-    A[Mobile and web aplikation : vscode] <-->   B[Game Server : js,css] 
-    B <--> C[Database : bootstrap.min.css]
+    A[Mobile and web aplikation : dart] <-->   B[Web Server  ] 
+    B <--> C[Database : Flutter]
 ```
 ## 5. Teknologi, Library, dan Framework
 
