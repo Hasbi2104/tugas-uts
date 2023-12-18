@@ -1,27 +1,32 @@
 ## 1.1 Latar Belakang
 
-Freelance adalah istilah freelance online, sebenarnya ini adalah pekerjaan yang dilakukan secara sambilan atau lepas tanpa terikat dengan perusahaan mana pun.
+Saat ini RABBANI diperuntukkan khusus untuk tenaga marketing Travel Umroh RABBANI sebagai sarana pendukung dalam aktivitas harian memasarkan paket umroh.
 
-4 Alasan Kenapa Freelancer Jadi Pekerjaan yang Diburu
-Saat ini banyak sekali jenis pekerjaan yang bisa dilakukan, salah satunya dengan menjadi freelancer. Pekerja lepas yang tidak terikat dengan aturan waktu dan tempat tertentu seperti ini sedang banyak diminati akhir-akhir ini . Karena dianggap sangat mudah dan juga tidak terikat dengan suatu perusahaan membuat banyak orang jadi tergiur untuk menekuninya.
-Masih ada alasan lain mengapa seseorang lebih memilih jadi freelancer daripada bekerja langsung ke kantor atau tempat tertentu, beberapa di antaranya benefit yang freelancer dapati sebagai berikut.
-1. Penghasilan Sesuai dengan Pekerjaan
-2. Waktu Kerjanya Fleksibel
-3. Bisa Dikerjakan di Mana pun
-4. Tak Harus Bertemu dengan Banyak Orang
-   
-adapun Keuntungan pekerjaan freelance meliputi fleksibilitas yang tinggi dalam memilih proyek, jadwal kerja, dan lokasi kerja. Freelancer dapat bekerja dari rumah, kafe, atau di mana saja yang mereka pilih. Mereka memiliki kontrol penuh atas karier mereka dan dapat menentukan sendiri berapa banyak proyek yang mereka ambil.
+RABBANI dapat meningkatkan produktivitas seorang agen pemasar sehingga angka closing jamaah meningkat dengan sangat significant
 
-Disini saya membuat sebuah aplikasi berbasis web yang dmn di dalam nya CV dan skil pribadi saya sepeti Designer, Web Developer, Vidiographer, Photographer, Pendaki untuk menawarkan jasa sesuai keahlian saya.
-Karena banyaknya orang yang mempunyai sebuah keahlian yang tidak bisa di kembangkan utnuk menjadi sebuah pekerjaan dan mendapatkan penghasilan. Maka dari itu saya membuat sebuah aplikasi untuk memudahkan mengakses job freelance.
+Mudah dalam pengoperasian
+Cepat dalam penyajian jadwal
+Akurat dalam perhitungan paket umroh
+
+Semua dilakukan hanya dalam hitungan detik
+
+Sebuah perpaduan antara mobile digital dengan layanan ke baitullah
+
+Apa Kelebihannya?
+⁃ Menghitung paket umroh hanya dalam hitungan DETIK dan AKURAT
+⁃ Tenaga Marketing dapat memantau Potensi KOMISInya masing masing
+⁃ Memantau CALON Jamaah & JAMAAH dimana saja dan kapan saja cukup menggunakan handphone android
+⁃ Memantau data jamaah para agen dibawahnya
+⁃ Terdapat Fasilitas PINTAR untuk Reminder / Pengingat, mulai dari Follow up, Keberangkatan, hingga Kepulangan
+⁃ Fasilitas share / bagi yg sangat mudah mulai dari document Ittinerary, Jadwal, Hotel, dll
+⁃ Data Terhubung langsung dengan SERVER RABBANI sehingga menjamin VALIDITAS DATA
+⁃ dan masih banyak lagi …
 
 ## 1.2. Deksripsi Teknologi Informasi
-aplikasi berbasis web ini dimana si pengguna dapat masuk ke aplikasi tersebut dan bisa melihat jasa-jasa si freelancer upload cv dan fortopolio di aplikasi tersebut, lalu pegguna bisa mencari jasa sesuai yang dia butuhkan di menu pencarian dan akan di arahkan ke freelancer yang menawarkan jasa nya sesuai si pengguna cari.
-setelah itu ketika pengguna mengeklik jasa freelancer yang dia pilih akan melihat kan cvjobfortopolionya si freelancer dan hasil hasil skill dia upload agar si pengguna tertarik.
-lalu cutomer sudah tertarik atas hasil karyanya customer bisa langsung menghubungi freelancer tersebut sesui kontak yang sudah tercantum 
-
-maka dari itu saya membuat aplikasi berbasis web untuk menawarkan jasa pibadi saya sesuai skill yang tercantum di CV, yang dimana aplikasi itu dapat memudahkan dalam hal pekerjaan sesseorang dengan menggunakan sebuah aplikasi tersebut, aplikasi itu juga ada fithur dimana orang orang bisa melihat skill dan kemamupuan kita sebagai seorang freelancer agar si customer bisa tertarik dari hasil skil dan portofolio yang kita upload sebagai freelancer adapun ketika costumer minat hasil dari karya si freelancer, costumer bisa menghubungi kontak yang sudah tercantum di aplikasi berbasis web tersebut.
-aplikasi tersebut dapat digunakan oleh si pengguna untuk melihat sebuah uploaddan si freelancer seperti aplisi shopee atau marketplace 
+1. Informasi dan Panduan RABBANI Mobile Apps menyediakan informasi lengkap tentang rute perjalanan, hotel, transportasi, dan lokasi penting di Mekah dan Madinah. Aplikasi ini juga dilengkapi dengan panduan praktis tentang ritual umroh, termasuk tata cara thawaf, sa’i, dan hal-hal lain yang perlu diperhatikan selama perjalanan.
+2. Jadwal dan Pengingat AIWA Mobile Apps membantu jamaah umroh mengatur jadwal ibadah dengan mudah. Aplikasi ini memberikan pengingat waktu-waktu penting seperti waktu salat, waktu thawaf, dan waktu kegiatan lainnya yang terkait dengan perjalanan umroh.
+3. Peta Interaktif Aplikasi ini menyediakan peta interaktif yang memungkinkan jamaah umroh untuk menjelajahi Mekah dan Madinah dengan mudah. Peta ini dilengkapi dengan penunjuk arah yang jelas dan informasi tentang tempat-tempat penting seperti masjid, hotel, restoran, dan fasilitas umum lainnya.
+4. Koneksi Komunitas RABBANI Mobile Apps juga menyediakan fitur yang memungkinkan jamaah umroh terhubung dengan sesama jamaah lainnya. Fitur ini memungkinkan mereka untuk berbagi pengalaman, tips, dan saran yang berguna selama perjalanan. Hal ini dapat memperkuat rasa persaudaraan di antara jamaah umroh dan menciptakan komunitas yang saling mendukung.
 
 
 
@@ -31,21 +36,22 @@ aplikasi tersebut dapat digunakan oleh si pengguna untuk melihat sebuah uploadda
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 
 - Merk: CVJOB
-- Tagline:job freelance mudah dan menyenangkan karena sesuai hobi masing masing
-- Campaign: bagaimana membuat aplikasi ini untuk memudahkan orang lain menyalurkan hobi,skill nya agar bermanfaat untuk orang lain yang membutuhkan dan dapat bertanggung jawab atas pekerjaanya
+- Tagline:Mudah dalam pengoperasian
+- Campaign: RABBANI dapat meningkatkan produktivitas seorang agen pemasar sehingga angka closing jamaah meningkat dengan sangat significant
 - Target user:
-   - usia 17+
-   - Seorang yang senang freelance job agar tidak jenuh
+   - all usia
+   - Seorang yang ingin mudah dalam pendaftaran ummarah
    - Seorang yang senang mengeksplorasi inspirasi dan informasi baru
    - Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
-   - Seorang yang ingin hobi atau skillnya dapat bermanfaat bagi orang lain dan berbuah hasil
+   - Seorang yang ingin tau tatacara proses pemberangkatan jamaah ummrah
 - User experience theme:
    - Mudah
    - Sederhana
    - simple
 - Warna: ala ala skai blue 
 Inspirasi desain:
-! [gamabr] (![website-CV-2](https://github.com/Hasbi2104/tugas-uts/assets/144440884/c3b92318-b8a5-4577-b2a3-0ac497cee17e)
+! [gamabr] ![aiwa-aplikasi-mobileapp-umroh-alhijaz](https://github.com/Hasbi2104/tugas-uts/assets/144440884/1927795a-6b62-4364-b79a-c3746fbed5c0)
+
 
 ## 2. User Story
 
