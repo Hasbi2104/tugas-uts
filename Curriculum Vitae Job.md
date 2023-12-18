@@ -24,7 +24,7 @@ Apa Kelebihannya?
 
 ## 1.2. Deksripsi Teknologi Informasi
 1. Informasi dan Panduan RABBANI Mobile Apps menyediakan informasi lengkap tentang rute perjalanan, hotel, transportasi, dan lokasi penting di Mekah dan Madinah. Aplikasi ini juga dilengkapi dengan panduan praktis tentang ritual umroh, termasuk tata cara thawaf, sa’i, dan hal-hal lain yang perlu diperhatikan selama perjalanan.
-2. Jadwal dan Pengingat AIWA Mobile Apps membantu jamaah umroh mengatur jadwal ibadah dengan mudah. Aplikasi ini memberikan pengingat waktu-waktu penting seperti waktu salat, waktu thawaf, dan waktu kegiatan lainnya yang terkait dengan perjalanan umroh.
+2. Jadwal dan Pengingat RABBANI Mobile Apps membantu jamaah umroh mengatur jadwal ibadah dengan mudah. Aplikasi ini memberikan pengingat waktu-waktu penting seperti waktu salat, waktu thawaf, dan waktu kegiatan lainnya yang terkait dengan perjalanan umroh.
 3. Peta Interaktif Aplikasi ini menyediakan peta interaktif yang memungkinkan jamaah umroh untuk menjelajahi Mekah dan Madinah dengan mudah. Peta ini dilengkapi dengan penunjuk arah yang jelas dan informasi tentang tempat-tempat penting seperti masjid, hotel, restoran, dan fasilitas umum lainnya.
 4. Koneksi Komunitas RABBANI Mobile Apps juga menyediakan fitur yang memungkinkan jamaah umroh terhubung dengan sesama jamaah lainnya. Fitur ini memungkinkan mereka untuk berbagi pengalaman, tips, dan saran yang berguna selama perjalanan. Hal ini dapat memperkuat rasa persaudaraan di antara jamaah umroh dan menciptakan komunitas yang saling mendukung.
 
