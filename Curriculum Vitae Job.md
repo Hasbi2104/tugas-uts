@@ -13,14 +13,14 @@ Semua dilakukan hanya dalam hitungan detik
 Sebuah perpaduan antara mobile digital dengan layanan ke baitullah
 
 Apa Kelebihannya?
-⁃ Menghitung paket umroh hanya dalam hitungan DETIK dan AKURAT
-⁃ Tenaga Marketing dapat memantau Potensi KOMISInya masing masing
-⁃ Memantau CALON Jamaah & JAMAAH dimana saja dan kapan saja cukup menggunakan handphone android
-⁃ Memantau data jamaah para agen dibawahnya
-⁃ Terdapat Fasilitas PINTAR untuk Reminder / Pengingat, mulai dari Follow up, Keberangkatan, hingga Kepulangan
-⁃ Fasilitas share / bagi yg sangat mudah mulai dari document Ittinerary, Jadwal, Hotel, dll
-⁃ Data Terhubung langsung dengan SERVER RABBANI sehingga menjamin VALIDITAS DATA
-⁃ dan masih banyak lagi …
+- Menghitung paket umroh hanya dalam hitungan DETIK dan AKURAT
+- Tenaga Marketing dapat memantau Potensi KOMISInya masing masing
+- Memantau CALON Jamaah & JAMAAH dimana saja dan kapan saja cukup menggunakan handphone android
+- Memantau data jamaah para agen dibawahnya
+- Terdapat Fasilitas PINTAR untuk Reminder / Pengingat, mulai dari Follow up, Keberangkatan, hingga Kepulangan
+- Fasilitas share / bagi yg sangat mudah mulai dari document Ittinerary, Jadwal, Hotel, dll
+- Data Terhubung langsung dengan SERVER RABBANI sehingga menjamin VALIDITAS DATA
+- dan masih banyak lagi …
 
 ## 1.2. Deksripsi Teknologi Informasi
 1. Informasi dan Panduan RABBANI Mobile Apps menyediakan informasi lengkap tentang rute perjalanan, hotel, transportasi, dan lokasi penting di Mekah dan Madinah. Aplikasi ini juga dilengkapi dengan panduan praktis tentang ritual umroh, termasuk tata cara thawaf, sa’i, dan hal-hal lain yang perlu diperhatikan selama perjalanan.
@@ -57,14 +57,14 @@ Inspirasi desain:
 
 Sebagai | Saya ingin bisa| Sehingga | prioritas 
 ---|---|---|---
-freelancer | menawarkan dengan cara mengupload jasa pribadi| custumer dapat melihat hasil dari jasa nya  | ⭐⭐⭐⭐⭐
-freelancer | Melihat CV saya dan melihat skill saya | orang lain dapat percaya atas jasa kita | ⭐⭐⭐⭐⭐
-customer | mengirim pesan untuk memesan jasanya | memudahkan memesan job dengan mudah dan tidak sulit | ⭐⭐⭐⭐⭐
-customer | Membalas pesan customer ketika sedang memesan | customer dapat saling konfirmasi | ⭐⭐⭐⭐⭐
-customer | melihat hasil karya dari si orang tersebut sebagai freelancer | cutomer ada ketertarikan dan kepercayaan untuk kita pesann atas jasaanya | ⭐⭐⭐⭐⭐
-freelancer | memosting hasil karyanya | custumer bisa melihat hasiltersebut | ⭐⭐⭐⭐⭐ 
-pengguna | bisa melihat lihat sebuah freelancer yang menguplload sebuah jasanya | bisa mengeklik uplodan freelancer tersebut dan dapat bisa lebih detail lagi melihat tentang jasa si freelancer |  ⭐⭐⭐⭐⭐ 
-pengguna | bisa mencari jasa sesuai yang pengguna butuhkan | pengguna tidak cape cape mencari kemana mana | ⭐⭐⭐⭐
+customer | Mengirim pesan kepada owner | memudahkan untuk komunikasi apabila ad kendala | ⭐⭐⭐⭐⭐
+customer | bisa memesan paket ummrah sesuai jadwal yang sudah di tentukan|memudahkan customer dalam pendaftaran | ⭐⭐⭐⭐⭐
+customer | bisa melihat notifikasi pemberangkatan  | cutomer bisa mempersiapkan untuk pemberangkatan | ⭐⭐⭐⭐⭐
+customer | bisa sekaligus memesan hotel apabila berangkat ummrah |Memudahkan customer dalam hal penginapan | ⭐⭐⭐⭐⭐
+customer | bisa memilih hotel bintang sesuai yang di inginkan |Susuai harapan customer | ⭐⭐⭐⭐⭐
+owner | memberikan informasi dalam notifikasi kepada customer | customer bisa tau informasi selanjutnya |  ⭐⭐⭐⭐⭐ 
+owner | Menampilkan total jamaah ummrah | Pengguna dapat bisa tau jamaah yang berangkat bersamanya | ⭐⭐⭐⭐
+owner |bisa mendokumetasikan jamaah ummrah  | jamaah dapat kenang kenangan | ⭐⭐⭐⭐
 ## 3. Struktur Data
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 erDiagram
