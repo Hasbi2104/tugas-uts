@@ -70,28 +70,10 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 erDiagram
   
 
+<img width="221" alt="Screenshot 2023-12-23 141613" src="https://github.com/Hasbi2104/tugas-uts/assets/144440884/5009858e-46c3-4e36-a228-83ce21dccd6f">
 
   
-```mermaid
-erDiagram
-    pengguna ||--o{CUSTUMER : MEMBELI
-    pengguna {
-        string name_lengkap
-        string custNumber
-        string password
-    }
-    CUSTUMER ||--|{ FREELANCER : user
-   CUSTUMER {
-        int orderNumber
-        string email
-        string kontak
-    }
-   FREELANCER {
-        string email
-        int nomorhp
-        string skill
-    }
-```
+
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
