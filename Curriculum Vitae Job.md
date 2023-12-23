@@ -110,10 +110,6 @@ flowchart TD
 
 ## 6. Desain User Experience dan User Interface
 
-![poto] (![08e2ac26-ef23-46b0-b3ab-17a1170b53c8](https://github.com/Hasbi2104/tugas-uts/assets/144440884/5c40af08-7e53-44ff-bdfb-817316fae4a5)
-![poto] (![d19b6040-c368-4892-9d5d-8be54e612682](https://github.com/Hasbi2104/tugas-uts/assets/144440884/5e1b874c-cd27-4850-8c6a-672da1881ac3)
-![poto] (![46509a6d-573d-41c2-9b5b-5378ea7bcd55](https://github.com/Hasbi2104/tugas-uts/assets/144440884/82c343cb-5b33-4b07-b53d-a736adbeb3cf)
-
 
 
 ## 7. Demonstrasi Video
