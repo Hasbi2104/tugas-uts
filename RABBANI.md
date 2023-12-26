@@ -35,7 +35,7 @@ Apa Kelebihannya?
 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 
-- Merk: CVJOB
+- Merk: RABBANI
 - Tagline:Mudah dalam pengoperasian
 - Campaign: RABBANI dapat meningkatkan produktivitas seorang agen pemasar sehingga angka closing jamaah meningkat dengan sangat significant
 - Target user:
