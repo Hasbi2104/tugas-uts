@@ -82,52 +82,29 @@ flowchart TD
 ```
 ## 5. Teknologi, Library, dan Framework
 
-$(document).ready(function() {
-  AOS.init( {
-    // uncomment below for on-scroll animations to played only once
-    // once: true  
-  }); // initialize animate on scroll library
-});
+Dalam kode Flutter yang diberikan, terdapat penggunaan beberapa teknologi, library, dan framework. Berikut penjelasan dalam bahasa Indonesia:
 
-// Smooth scroll for links with hashes
-$('a.smooth-scroll')
-.click(function(event) {
-  // On-page links
-  if (
-    location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
-    && 
-    location.hostname == this.hostname
-  ) {
-    // Figure out element to scroll to
-    var target = $(this.hash);
-    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-    // Does a scroll target exist?
-    if (target.length) {
-      // Only prevent default if animation is actually gonna happen
-      event.preventDefault();
-      $('html, body').animate({
-        scrollTop: target.offset().top
-      }, 1000, function() {
-        // Callback after animation
-        // Must change focus!
-        var $target = $(target);
-        $target.focus();
-        if ($target.is(":focus")) { // Checking if the target was focused
-          return false;
-        } else {
-          $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
-          $target.focus(); // Set focus again
-        };
-      });
-    }
-  }
-});
-saya membuat aplikasi ini dengan vscode
-database bootstrap.min.css
+Kode pada LoginPage: Flutter Framework:
 
-- Bahwasanya bnyak nya fitur yang sangat mudah dan sinmple untuk di pakai di aplikasi ini
-- dan juga bisa di kembang kan aplikasi tersebut dalam bentuk apapun
-- 
+Deskripsi: Flutter adalah framework pengembangan aplikasi lintas platform yang digunakan untuk membuat aplikasi mobile, web, dan desktop. Penggunaan dalam Kode: Kode menggunakan framework Flutter untuk membangun antarmuka pengguna dengan widget seperti Scaffold, AppBar, TextField, dan lainnya. Material Design:
+
+Deskripsi: Material Design adalah desain antarmuka pengguna yang dikembangkan oleh Google dengan prinsip-prinsip desain yang konsisten. Penggunaan dalam Kode: Library material dari Flutter digunakan untuk mengimplementasikan komponen dan gaya desain Material, seperti ElevatedButton, TextField, dan AppBar. StatefulWidget dan State:
+
+Deskripsi: Flutter menggunakan model pemrograman reaktif dengan StatefulWidget dan State untuk mengelola state dalam widget. Penggunaan dalam Kode: Kelas _LoginPageState adalah stateful widget yang mengelola state untuk halaman login, termasuk kontrol teks dan status visibilitas password. Navigation:
+
+Deskripsi: Navigasi merujuk pada perpindahan antara layar atau halaman dalam aplikasi. Penggunaan dalam Kode: Kode menggunakan Navigator untuk berpindah antar layar. Fungsi Navigasi.goToNavigasiScreen dipanggil saat tombol login ditekan. Kode pada Navigasi: Flutter Framework:
+
+Deskripsi: Sama seperti di atas, kode ini juga menggunakan framework Flutter. Penggunaan dalam Kode: Kode ini merupakan bagian dari aplikasi Flutter dan menggunakan widget Flutter seperti Scaffold, AppBar, BottomNavigationBar, dan lainnya. Navigation:
+
+Deskripsi: Kode ini mengatur navigasi antara layar aplikasi. Penggunaan dalam Kode: Fungsi _onItemTapped menangani pemilihan item pada BottomNavigationBar dan memanggil fungsi _navigateToLogin jika item "Akun" dipilih. Styling dan UI:
+
+Deskripsi: Kode ini mengatur tata letak dan penampilan antarmuka pengguna (UI). Penggunaan dalam Kode: Pengaturan tata letak seperti AppBar, BottomNavigationBar, dan penggunaan widget Text untuk menampilkan isi halaman. BottomNavigationBar:
+
+Deskripsi: Widget yang menyediakan navigasi tab di bagian bawah aplikasi. Penggunaan dalam Kode: Kode menggunakan BottomNavigationBar untuk menampilkan dan mengelola navigasi tab di bagian bawah layar. IconButton dan Text:
+
+Deskripsi: Widget untuk menampilkan ikon dan teks. Penggunaan dalam Kode: Digunakan untuk menampilkan tombol kembali (IconButton) dan teks "råßßåñï" di bagian AppBar. Navigator:
+
+Deskripsi: Navigator digunakan untuk mengelola tumpukan layar. Penggunaan dalam Kode: Fungsi _navigateToLogin menggunakan Navigator.pop untuk kembali ke layar login. Demikian penjelasan singkat tentang teknologi, library, dan framework yang digunakan dalam kedua bagian kode Flutter tersebut.
 
 ## 6. Desain User Experience dan User Interface
 
