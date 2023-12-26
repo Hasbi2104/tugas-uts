@@ -77,8 +77,8 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ```mermaid
 flowchart TD
-    A[Mobile and web aplikation : dart] <-->   B[Web Server  ] 
-    B <--> C[Database : Flutter]
+    A[Mobile and web aplikation : vscode] <-->   B[Game Server : dart] 
+    B <--> C[Database : Edge Computing ]
 ```
 ## 5. Teknologi, Library, dan Framework
 
