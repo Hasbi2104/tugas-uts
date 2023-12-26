@@ -108,10 +108,9 @@ Deskripsi: Navigator digunakan untuk mengelola tumpukan layar. Penggunaan dalam 
 
 ## 6. Desain User Experience dan User Interface
 
-![poto] (![08e2ac26-ef23-46b0-b3ab-17a1170b53c8](https://github.com/Hasbi2104/tugas-uts/assets/144440884/5c40af08-7e53-44ff-bdfb-817316fae4a5)
-![poto] (![d19b6040-c368-4892-9d5d-8be54e612682](https://github.com/Hasbi2104/tugas-uts/assets/144440884/5e1b874c-cd27-4850-8c6a-672da1881ac3)
-![poto] (![46509a6d-573d-41c2-9b5b-5378ea7bcd55](https://github.com/Hasbi2104/tugas-uts/assets/144440884/82c343cb-5b33-4b07-b53d-a736adbeb3cf)
+![WhatsApp Image 2023-12-25 at 19 48 38_632d9453](https://github.com/Hasbi2104/tugas-uts/assets/144440884/341e7ee8-5708-45ae-8948-9d192e2166e2)
 
+![WhatsApp Image 2023-12-25 at 19 48 29_026e216b](https://github.com/Hasbi2104/tugas-uts/assets/144440884/8b5d8798-dc48-4ebd-8e9f-d9feffe48657)
 
 
 ## 7. Demonstrasi Video
