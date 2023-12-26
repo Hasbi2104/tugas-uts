@@ -130,3 +130,4 @@ Link youtube nya
 [Link youtube nya di detik jawaban ini](https://youtu.be/vJl5hZ_53Dg)
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+[Link youtube nya di detik jawaban ini](https://youtu.be/Aa2E9pdZh78)
